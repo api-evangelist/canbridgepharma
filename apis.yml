@@ -1,8 +1,31 @@
 aid: canbridgepharma
-name: canbridgepharma
-description: canbridgepharma is a company surfaced as a portfolio company of qiming and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: CANbridge Pharmaceuticals
+description: >-
+  CANbridge Pharmaceuticals (CANbridge Life Sciences Ltd.) is a global,
+  China-based biopharmaceutical company founded in 2012 that focuses on the
+  research, development, and commercialization of transformative therapies for
+  rare diseases and rare oncology. The company in-licenses and develops
+  differentiated drug candidates from around the world for the Chinese and
+  global markets, with a portfolio of approved products and a gene-therapy and
+  enzyme-replacement pipeline. Headquartered in Beijing with offices in
+  Shanghai, Hong Kong, Taiwan, Suzhou, and Burlington, Massachusetts (USA),
+  CANbridge is listed on the Hong Kong Stock Exchange. This profile was added to
+  the API Evangelist network as a portfolio company of the venture firm Qiming;
+  CANbridge publishes no public developer API, SDK, or machine-readable API
+  surface at this time.
 url: https://raw.githubusercontent.com/api-evangelist/canbridgepharma/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.canbridgepharma.com/media/images/01_CANbridge_Logo_1.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +34,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Pharmaceuticals
+- Biotechnology
+- Rare Disease
+- Healthcare
+- Life Sciences
+- Gene Therapy
+- Oncology
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +51,16 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/canbridgepharma-domain-security.yml
 - type: Website
-  url: https://canbridgepharma.com
+  url: https://www.canbridgepharma.com/en/
+- type: PrivacyPolicy
+  url: https://www.canbridgepharma.com/en/privacy-policy/
+- type: Blog
+  url: https://www.canbridgepharma.com/en/media-news/press-release/
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
