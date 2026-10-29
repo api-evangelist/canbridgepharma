@@ -1,4 +1,4 @@
-# canbridgepharma
+# CANbridge Pharmaceuticals
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-canbridgepharma is a company surfaced as a portfolio company of qiming and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+CANbridge Pharmaceuticals (CANbridge Life Sciences Ltd.) is a global, China-based biopharmaceutical company founded in 2012 that focuses on the research, development, and commercialization of transformative therapies for rare diseases and rare oncology. The company in-licenses and develops differentiated drug candidates from around the world for the Chinese and global markets, with a portfolio of approved products and a gene-therapy and enzyme-replacement pipeline. Headquartered in Beijing with offices in Shanghai, Hong Kong, Taiwan, Suzhou, and Burlington, Massachusetts (USA), CANbridge is listed on the Hong Kong Stock Exchange. This profile was added to the API Evangelist network as a portfolio company of the venture firm Qiming; CANbridge publishes no public developer API, SDK, or machine-readable API surface at this time.
 
-Backed by: qiming — https://canbridgepharma.com
+**Areas:** Company · Pharmaceuticals · Biotechnology · Rare Disease · Healthcare · Life Sciences · Gene Therapy · Oncology
+
+## CANbridge Pharmaceuticals on APIs.io
+
+Everything profiled for CANbridge Pharmaceuticals is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/canbridgepharma/](https://apis.io/providers/canbridgepharma/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Canbridgepharma Domain Security](https://apis.io/security/canbridgepharma/canbridgepharma-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.canbridgepharma.com/en/)
+- [Blog](https://www.canbridgepharma.com/en/media-news/press-release/)
+- [Privacy policy](https://www.canbridgepharma.com/en/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 6.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/canbridgepharma/](https://apis.io/providers/canbridgepharma/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CANbridge Pharmaceuticals: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/canbridgepharma/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
